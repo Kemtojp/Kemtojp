@@ -54,15 +54,19 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kemtojp&show_icons=true&theme=tokyonight"
-    width="49%"
-  />
+  <a href="https://github.com/Kemtojp">
+    <img
+      height="170"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kemtojp&show_icons=true&theme=tokyonight"
+    />
+  </a>
 
-  <img
-    src="https://streak-stats.demolab.com?user=Kemtojp&theme=tokyonight"
-    width="49%"
-  />
+  <a href="https://github.com/Kemtojp">
+    <img
+      height="170"
+      src="https://streak-stats.demolab.com?user=Kemtojp&theme=tokyonight"
+    />
+  </a>
 </p>
 
 ----
