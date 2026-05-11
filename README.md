@@ -13,6 +13,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBpcW40MWl1YjhtODY1Y2pmdmJvdTNqMXNrdDF5NDd2d2c1N2w1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/taV5SjHEwNtN1MHBhZ/giphy.gif" width = 420px>
+
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,6 +31,7 @@
 #### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
@@ -48,13 +51,6 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="www.linkedin.com/in/juan-velasquez-becerra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ju.velasquezb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 ----
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -65,13 +61,41 @@
 
 ----
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1wY2loaXkyZ2p0NW5vbXFoMjEybjM1aTd3d3kzbGc2aHRrOGhmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/taV5SjHEwNtN1MHBhZ/giphy.gif" width="450"/>
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
 
-<p align="center">
-  <i>"El. Psy. Kongroo."</i>
-</p>
+### 🤝🏻 Connect with Me
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/juan-velasquez-becerra">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ju.velasquezb@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+  </td>
+
+  <td width="50%" align="center">
+
+<img 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRqOHpzcmhlbzg3b29oNHoxbzRqM3dlYjAwOWNmeGp2Ymdic2ptYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/erxJKQbb3V7ffwvAeM/giphy.gif" 
+  width="420"
+/>
+
+<i>"El. Psy. Kongroo."</i>
+
+  </td>
+  </tr>
+</table>
+
+
+
 
 
 
