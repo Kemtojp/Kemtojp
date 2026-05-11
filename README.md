@@ -89,6 +89,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
   </td>
 
   <td width="50%" align="center">
