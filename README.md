@@ -6,9 +6,7 @@
 🎓 &nbsp;I'm a recently graduated Computer Engineer from Duoc UC, passionate about backend development, APIs, and cloud technologies.\
 ⚙️ &nbsp;I have experience working with Python, SQL, REST APIs, ETL processes, and automation tools in real operational environments.\
 🌱 &nbsp;Currently learning more about FullStack development, Cloud Architecture, and scalable systems.\
-🚀 &nbsp;I enjoy solving problems, improving workflows, and learning new technologies through hands-on projects.\
 📚 &nbsp;I'm also developing personal FullStack applications using React, Node.js, Next.js, PostgreSQL, and MongoDB.\
-📄 &nbsp;Feel free to check my [CV](LINK_AQUI) for more details about my technical background, experience, and certifications.\
 ✉️ &nbsp;Feel free to connect with me on LinkedIn or reach out for collaboration opportunities!
 
 ### 🛠 &nbsp;Tech Stack
@@ -56,7 +54,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 [![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kemtojp&show_icons=true&theme=tokyonight)](https://github.com/Kemtojp)
-[![](https://streak-stats.demolab.com?user=Kemtojp&theme=material-palenight)](https://github.com/Kemtojp)
+[![](https://streak-stats.demolab.com?user=Kemtojp&theme=tokyonight)](https://github.com/Kemtojp)
 
 
 ----
